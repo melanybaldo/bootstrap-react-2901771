@@ -1,3 +1,10 @@
 .bg-maint{background-color: rgb(104, 205, 171);}
 .bg-dark-mint{background-color: rgb(66, 145, 145);}
 .bg-tomato{background-color: tomato;}
+.bg-blue{background-color: blue;}
+.bg-purple{background-color: rgb(139, 21, 139);}
+.bg-orangeb{background-color: orangered;}
+.bg-orange{background-color: rgb(223, 149, 12);}
+.fs-0{
+    font-size: 5em;
+}

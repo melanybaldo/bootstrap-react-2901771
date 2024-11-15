@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #F5F0F1;
 }
 
@@ -9,16 +9,25 @@ body{
     font-style: normal;
 }
 
-h1{
+h1 {
     font-family: "CHICKEN PIE";
     font-weight: normal;
 }
 
-h3{
+h3 {
     font-family: "CHICKEN PIE";
     font-weight: normal;
 }
 
-.w-15{
+.w-15 {
     width: 15% !important;
+}
+
+.gradient-card {
+    background: rgb(255, 2, 171);
+    background: linear-gradient(36deg, rgba(255, 2, 171, 1) 0%, rgba(81, 168, 231, 1) 30%, rgba(193, 12, 118, 1) 61%, rgba(0, 212, 255, 1) 100%);
+}
+.gradient-card-img {
+    background-image: url("../Pages/tarjeta degradado.png");
+    background-size: cover;
 }
